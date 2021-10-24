@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this module I believe was to show us how to gather tables and graphs based on data that is being given. By using excel we can extract data into a visualization method that can be presented and be given a clear view what stockholders or investors can see over a period. In Louise’s data we can see how outcomes are affected by their launch dates and their goals. 
+The purpose of this module I believe was to show us how to gather tables and graphs based on data that is being given. By using excel we can extract data into a visualization method that can be presented and be given a clear view of what stockholders or investors can see over a period of time. In Louise’s data we can see how outcomes are affected by their launch dates and their goals. 
 
 ## Analysis and Challenges
 
