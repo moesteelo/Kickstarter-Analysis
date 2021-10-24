@@ -9,7 +9,7 @@ The purpose of this module I believe was to show us how to gather tables and gra
 
 ### Analysis of Outcomes Based on Launch Date
 
--- The Theater Outcomes Based by Launch Date show what months of the year theater outcomes are more successful and are more likely to fail. Theater successes have a greater achievement in the months of April through July. 
+-- The Theater Outcomes Based by Launch Date show what months of the year theater outcomes are more successful and are more likely to fail. Theater successes have a greater achievement in the months of April through July. It also shows that within the same periods of months theaters are also likley to fail.
 
 ![image](https://user-images.githubusercontent.com/91576834/138573812-8d409d7f-6f58-48f4-a314-286725c24033.png)
 
