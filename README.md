@@ -30,7 +30,7 @@ The purpose of this module I believe was to show us how to gather tables and gra
 -- They are two conclusions that can be drawn from the Theater Outcomes by launch date. The first conclusion that can be drawn from the Theater Outcomes is that theaters are more successful in the middle of the year than the beginning and end of the year. My logic reason is that the middle of the year tends to be summer, and more people are willing to go see live performances and the weather tends to be more favorable for a lot of people during the summers. The second conclusion is that while theaters are more successful, they also tend to have a 58% chance of failing during the same period. They also have a relative higher chance of failing during the months of October and November.
 
 - What can you conclude about the Outcomes based on Goals?
---One conclusion that the Outcomes Based on Goals show is that outcomes of less than 10,000 are less have a greater chance of having 	a success outcome. There is also a very high chance of failure for outcomes based on the goals of 20,000 and 35,000, as well as goals of 45,000 or greater. 
+--One conclusion that the Outcomes Based on Goals show is that outcomes goals of less than 10,000 are less have a greater chance of having a successful outcome. There is also a very high chance of failure for outcomes based on the goals of 20,000 and 35,000, as well as goals of 45,000 or greater. 
 
 - What are some limitations of this dataset?
 --They are some limitations of the data set that I believe are present for Outcomes based on Goals are questions. The one question that I would try to find out are what are main causes that is contributing to outcomes having a very high chance of failure when their goals reach a certain number? 
