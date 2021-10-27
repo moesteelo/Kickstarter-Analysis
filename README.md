@@ -33,7 +33,7 @@ The purpose of this module I believe was to show us how to gather tables and gra
 --One conclusion that the Outcomes Based on Goals show is that outcomes goals of less than 10,000 are less have a greater chance of having a successful outcome. There is also a very high chance of failure for outcomes based on the goals of 20,000 and 35,000, as well as goals of 45,000 or greater. 
 
 - What are some limitations of this dataset?
---They are some limitations of the data set that I believe are present for Outcomes based on Goals are questions. The one question that I would try to find out are what are main causes that is contributing to outcomes having a very high chance of failure when their goals reach a certain number? 
+--They are some limitations of the data set that I believe are present for Outcomes based on Goals are questions. The one question that I would try to find out are what are main causes that is contributing to outcomes having a very high chance of failure when their goals reach a certain number? There are also limitations on what particular group for example gender or age that go to theater or plays. 
 
 - What are some other possible tables and/or graphs that we could create?
 --For the Theater Outcomes I would certainly try to add more tables and graphs explaining the contributing factors for theater success as well as factors contributing to their failures. For Outcomes based on goals I would recommend more detailed approach on what kind of plays are more successful for example what kind of performances? Are they live? Classicals? Or more modern plays for entertainment or kid cartoon plays. 
